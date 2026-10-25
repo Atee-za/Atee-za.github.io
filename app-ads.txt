@@ -1,3 +1,2 @@
 # Zono Games app-ads.txt
-# The AdMob line is added once the AdMob publisher ID (pub-...) exists:
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-7159378767552582, DIRECT, f08c47fec0942fa0
